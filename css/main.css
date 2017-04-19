@@ -1,0 +1,40 @@
+div.overview {
+	background: #eee;
+}
+
+div#static_track {
+	background: #eee;
+}
+
+.tundra #faceted_tracksel .faceted_tracksel_on_off.tab{
+	background: #eee;
+}
+
+.tundra .dojoxGridHeader .dojoxGridCell {
+	background: #eee;
+}
+
+.tundra .dijitSelect .dijitButtonContents, .tundra .dijitSelect, .tundra .dijitTextBox {
+	background: none;
+}
+
+.tundra .dijitButtonNode {
+	background: #ddd;
+}
+
+.tundra .dijitButtonNode:hover {
+	background: #fff;
+}
+
+.tundra .dijitButtonNode:active {
+	background: #bbb;
+}
+
+.tundra .dijitDialogTitleBar, .tundra .dijitToolbar {
+	background: #eee;
+}
+
+#faceted_tracksel .gridPane .gridControls button{
+	background: white;
+	border: 1px solid black;
+}
